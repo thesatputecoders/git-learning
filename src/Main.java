@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Day is runny");
         System.out.println("Day is sunday");
         System.out.println("Day is monday");
+         System.out.println("Day is saturday");
     }
 }
